@@ -1,4 +1,4 @@
-# Função lambda: função para calcular imposto com base em uma porcentagem
+# Função lambda: função para calcular imposto com base em porcentagens
 calcular_imposto = lambda valor, taxa: valor * (taxa / 100)
 
 # Função de alta ordem: recebe uma função para aplicar em cada valor de uma lista
